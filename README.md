@@ -1,5 +1,5 @@
 ## Hi there 👋
-![William Carvajal](https://github.com/WillCarv/WillCarv/assets/98909875/8ca0c198-c7b4-4029-817f-f227b00bbb48)
+![William Carvajal (1)](https://github.com/WillCarv/WillCarv/assets/98909875/bec55874-bf68-46f8-8905-d1c939dd5305)
 
 <!--
 **WillCarv/WillCarv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
