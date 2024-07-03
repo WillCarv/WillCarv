@@ -1,11 +1,9 @@
 ## Hi there 👋
+![William Carvajal](https://github.com/WillCarv/WillCarv/assets/98909875/8ca0c198-c7b4-4029-817f-f227b00bbb48)
 
 <!--
 **WillCarv/WillCarv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-![William Carvajal](https://github.com/WillCarv/WillCarv/assets/98909875/45133993-d208-4433-8574-8b130b492142)
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
